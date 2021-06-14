@@ -16,7 +16,7 @@ export default function Navbar() {
               <div className="site-logo">
                 <Link className="navbar-logo" to="/">
                   {/* <img src="/img/logo.png" alt="" /> */}
-                  <h2>Bitcoin Inu</h2>
+                  <h2> <b>BITCOIN INU</b> </h2>
                 </Link>
               </div>
             </div>

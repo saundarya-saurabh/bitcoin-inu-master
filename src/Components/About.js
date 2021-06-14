@@ -24,7 +24,7 @@ export default function About() {
               <div class="about_btn">
                 <a
                   class="video_btn"
-                  href="https://www.youtube.com/watch?v=CMPebxJjE8o"
+                  href="https://www.youtube.com/watch?v=7f9eHmJy86s"
                   target="_blank"
                 >
                   <i class="fa fa-play"></i>

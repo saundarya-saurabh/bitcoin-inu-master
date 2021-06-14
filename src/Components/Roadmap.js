@@ -17,13 +17,13 @@ export default function Roadmap() {
               <div class="timeline">
                 <a href="#" class="timeline-content">
                   <div class="timeline-year">
-                    <span>Jun 2021</span>
+                    <span>Q1 - 2021</span>
                   </div>
                   <div class="inner-content">
-                    <h3 class="roadmap_title">Team Formation</h3>
+                    <h3 class="roadmap_title">LAUNCH</h3>
                     <p class="roadmap_description">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Integer malesuada tellus.
+                    We have successfully launched BINU Coin , which is a community driven decentralized BEP-20 Token.
+                
                     </p>
                   </div>
                 </a>
@@ -31,13 +31,12 @@ export default function Roadmap() {
               <div class="timeline">
                 <a href="#" class="timeline-content">
                   <div class="timeline-year">
-                    <span>Jul 2021</span>
+                    <span>Q2 - 2021</span>
                   </div>
                   <div class="inner-content">
-                    <h3 class="roadmap_title">Project concept</h3>
+                    <h3 class="roadmap_title">COMMUNITY</h3>
                     <p class="roadmap_description">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Integer malesuada tellus.
+                    First step is to consolidate our community with at least 10,000 holders by the end of June 2021 & will grow continously .
                     </p>
                   </div>
                 </a>
@@ -45,13 +44,12 @@ export default function Roadmap() {
               <div class="timeline">
                 <a href="#" class="timeline-content">
                   <div class="timeline-year">
-                    <span>Aug 2021</span>
+                    <span>Q3 - 2021</span>
                   </div>
                   <div class="inner-content">
-                    <h3 class="roadmap_title">Ico Begins</h3>
+                    <h3 class="roadmap_title">EXCHANGES</h3>
                     <p class="roadmap_description">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Integer malesuada tellus.
+                    Listed on Coingecko, CMC.  We will also explore new exchanges which will increase the amount of BINU users and holders.
                     </p>
                   </div>
                 </a>
@@ -59,13 +57,12 @@ export default function Roadmap() {
               <div class="timeline">
                 <a href="#" class="timeline-content">
                   <div class="timeline-year">
-                    <span>Sep 2021</span>
+                    <span>Q4 - 2021</span>
                   </div>
                   <div class="inner-content">
-                    <h3 class="roadmap_title">Public crowdsale</h3>
+                    <h3 class="roadmap_title">NFT & Other Big Things</h3>
                     <p class="roadmap_description">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Integer malesuada tellus.
+                    We will Launch BINU NFT´s by Q3 2021 & Some other big products yet to be revealed .
                     </p>
                   </div>
                 </a>
@@ -73,7 +70,7 @@ export default function Roadmap() {
               <div class="timeline">
                 <a href="#" class="timeline-content">
                   <div class="timeline-year">
-                    <span>Oct 2021</span>
+                    <span>Q5 2021</span>
                   </div>
                   <div class="inner-content">
                     <h3 class="roadmap_title">Testing data</h3>

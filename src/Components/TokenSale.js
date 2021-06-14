@@ -5,13 +5,13 @@ export default function TokenSale() {
     <section id="token_sale" class="token_sale_area section-padding">
       <div class="container">
         <div class="section-title text-center">
-          <h2 class="section-title-white">Pre-Sale & Values</h2>
+          <h2 class="section-title-white">TokeNomics & Details </h2>
           <span></span>
-          <p class="section-title-white">
+          {/* <p class="section-title-white">
             Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
             nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
             erat.
-          </p>
+          </p> */}
         </div>
         <div class="row token_mb">
           <div
@@ -22,16 +22,16 @@ export default function TokenSale() {
           >
             <div class="pre_sale_area">
               <div class="single_presale">
-                <h5>Private Pre-Sale</h5>
-                <p>April 20, 2021</p>
+                <h5>Current Price</h5>
+                <p>0.0</p>
               </div>
               <div class="single_presale">
-                <h5>Pre-Sale</h5>
-                <p>April 21, 2021</p>
+                <h5>Holders</h5>
+                <p>0</p>
               </div>
               <div class="single_presale">
-                <h5>Crowdsale</h5>
-                <p>Apr 28, 2021</p>
+                <h5>Supply </h5>
+                <p>0</p>
               </div>
             </div>
           </div>
@@ -43,16 +43,16 @@ export default function TokenSale() {
           >
             <div class="pre_sale_area">
               <div class="single_presale brright">
-                <h5>Low - High 14h</h5>
-                <p>$ 3,155.63 - $ 5,124.62</p>
+                <h5>Market Cap</h5>
+                <p>$ 0</p>
               </div>
               <div class="single_presale brright">
-                <h5>Total Token Sale</h5>
-                <p>412,573 BCC (4.2%)</p>
+                <h5>Total Token Sold</h5>
+                <p>0 (0%)</p>
               </div>
               <div class="single_presale brright">
-                <h5>Acceptable Currency </h5>
-                <p>BTC, ETH, LTC</p>
+                <h5>Transactions </h5>
+                <p>0000 +</p>
               </div>
             </div>
           </div>
@@ -65,14 +65,14 @@ export default function TokenSale() {
             <div class="buy-icons">
               <div class="ca-starts-in">
                 <h3>
-                  Token will start on July <br />
+                  Token will start on June <br />
                   Fifteen 2021
                 </h3>
                 <div class="timer-area">
-                  <div data-countdown="2021/7/15"></div>
+                  <div data-countdown="2021/6/15"></div>
                 </div>
               </div>
-              <h4>Pre Sale Starting In</h4>
+              {/* <h4>Pre Sale Starting In</h4> */}
               <a href="https://exchange.pancakeswap.finance/#/swap" class="btn_one">
                 Buy token now
               </a>
